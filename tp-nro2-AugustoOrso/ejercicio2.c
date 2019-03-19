@@ -20,4 +20,12 @@ void main()
 		printf("%d\n",Buff + i);	
 		}	
 
+	printf("\n");
+		
+	for (i = 0; i < 5; i++)
+		{
+			printf("%p\n", *p);
+			p++;
+		}	
+
 }
