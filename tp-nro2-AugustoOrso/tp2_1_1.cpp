@@ -6,7 +6,8 @@ void main(){
 	#define N 4
 	#define M 5
 
-	int f,c;
+	int f;
+	int c;
 	double mt[N][M];
 
 	for (f = 0; f < N; f++){
@@ -15,5 +16,5 @@ void main(){
 		}
 	printf("\n");	
 	}
-
+// lalalala
 }
