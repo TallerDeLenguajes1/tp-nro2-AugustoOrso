@@ -11,9 +11,10 @@ void main(){
 
 	for (f = 0; f < N; f++){
 		for(c = 0; c < M; c++){
-			printf("%1f   ", mt[f][c]);
+			printf("%1f", mt[f][c]);
 		}
 	printf("\n");	
 	}
+
 
 }
