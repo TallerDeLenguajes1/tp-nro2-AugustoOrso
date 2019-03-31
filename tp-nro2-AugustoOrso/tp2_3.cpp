@@ -29,7 +29,7 @@ int main(void){
 		arreg[f] = cont;
 	}
 
-	printf("\nCantidad de pares por fila: ");
+	printf("\nLa cantidad de numeros pares pares por fila es de: ");
 
 	for (int i = 0; i < N; ++i){
 		printf("%d", arreg[i]);
