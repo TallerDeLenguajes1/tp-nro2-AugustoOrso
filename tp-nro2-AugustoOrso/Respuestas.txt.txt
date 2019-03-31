@@ -1,0 +1,5 @@
+f)
+No se puedo ver el ultimo archivo ya que se encuentra alojado en la otra rama, si quiero verlo, debo volver a la rama Opcion_2 y volvera a aparecer.
+
+i)
+ Se observa de manera grafica los cambios del ultimo archivo creado en Opcion_2
